@@ -8,7 +8,9 @@ I'm a computer science student interested in web development.
 
 *   🌍  I'm based in Philippines
 *   🧠  I'm learning Typescript, Postgres, and AWS
-*   🤝  I'm open to collaborating on interesting projects### Skills 
+*   🤝  I'm open to collaborating on interesting projects
+
+### Skills 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
