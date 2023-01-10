@@ -7,7 +7,7 @@ Web Developeer
 I'm a computer science student interested in web development.
 
 *   🌍  I'm based in Philippines
-*   🧠  I'm learning Typescript, Postgres, and AWS
+*   🧠  I'm learning Javascript, Typescript, Postgres, and AWS
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
