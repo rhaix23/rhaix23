@@ -28,9 +28,3 @@ I'm a computer science student interested in web development.
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/rhaix23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/patrick-santos-4b34071b4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/rhaix23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaix23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
