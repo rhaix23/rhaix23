@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developeer
 --------------
 
-I'm a computer science student interested in web development.
+I'm a full stack developer specializing in C# and ASP.NET.
 
 *   🌍  I'm based in Philippines
-*   🧠  I'm learning Typescript, Postgres, Jest/Supertest
+*   🧠  I'm learning Blazor.
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
