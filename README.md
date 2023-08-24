@@ -7,7 +7,6 @@ Web Developeer
 I'm a full stack developer specializing in C# and ASP.NET.
 
 *   🌍  I'm based in Philippines
-*   🧠  I'm learning Blazor.
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
